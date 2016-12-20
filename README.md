@@ -1,2 +1,2 @@
 # panddle
-pandlegame <Source Code>
+pandlegame Source Code
